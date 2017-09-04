@@ -14,4 +14,3 @@ def union(i, j, lista) :
   else :
     lista[j] -= 1
     lista[i] = j
-  print(lista);
